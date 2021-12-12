@@ -52,10 +52,12 @@
 
 [![Linkedin](https://img.shields.io/badge/-Aubert%20Geoffrey-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/geoffreyaubert/) 
 
-
+<p>
 
 ### Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=aubegeo&hide=stars&show_icons=true&theme=blueberry" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubegeo&layout=compact&theme=blueberry" />  
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubegeo&layout=compact&theme=blueberry" />
+  
+</p>
