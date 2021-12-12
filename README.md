@@ -1,5 +1,6 @@
 <p align="center">
-<h1> Hi 👋🏻, I am Geoffrey. Welcome to my github profile!</h2> 
+<h1> Hi 👋🏻, I am Geoffrey. </h1>
+<h2>  Welcome to my github profile!</h2> 
 </p>
 
 
@@ -50,6 +51,8 @@
 #### Social 👥
 
 [![Linkedin](https://img.shields.io/badge/-Aubert%20Geoffrey-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/geoffreyaubert/) 
+
+
 
 ### Stats 📈
 
