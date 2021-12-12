@@ -1,13 +1,14 @@
 <p align="center">
 <h1> Hi 👋🏻, I am Geoffrey. </h1>
 <h2>  Welcome to my github profile!</h2> 
-</p>
 
 
-  I'm curious about all IT fields.
+
+<p align="center">
+  I am curious about all IT fields.
   I have engineering degree from <b>ISTIA</b> 🇫🇷 Engineering School (now Polytech Angers).  
   I am a Java and Javascript developer.  
-
+</p>
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
