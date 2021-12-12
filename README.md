@@ -6,9 +6,15 @@
 
 <p align="center">
   I am curious about all IT fields.
+</p>
+<p align="center">
   I have engineering degree from <b>ISTIA</b> 🇫🇷 Engineering School (now Polytech Angers).  
+</p>
+<p align="center">
   I am a Java and Javascript developer.  
 </p>
+  
+
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
